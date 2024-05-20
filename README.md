@@ -50,7 +50,7 @@ Hey there. I am Ashraful Alam. I am from Bangladesh. I am a passionate software 
 
 <br> 
 
-<img src="https://github.com/ashrafulalam005/Age-calculator-with-html-css-javascript/blob/main/Necessary%20img/before%20age%20input.png" alt="Screenshot 1" height="500" width="400">
+<img src="https://github.com/ashrafulalam005/Age-calculator-with-html-css-javascript/blob/main/Necessary%20img/before%20age%20input.png" alt="Screenshot 1" height="500" width="450">
 
 <br> <br> 
 ## After Entering Birthdate
