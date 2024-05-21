@@ -24,8 +24,8 @@ Hey there. I am Ashraful Alam. I am from Bangladesh. I am a passionate software 
 ## Upcoming Feature
 <br> 
 
-- I am working on it so that it can calculate age based on different calendars.
-- Adding support for saving the calculated age.
+- I am working on it so that I can make it more beautiful. 
+- Adding additional features.
 
 ## How to Use
 <br> 
