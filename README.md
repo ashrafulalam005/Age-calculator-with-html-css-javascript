@@ -39,9 +39,9 @@ Hey there. I am Ashraful Alam. I am from Chittagong, Bangladesh. I am a passiona
 ## Technologies Used
 <br> 
 
-- HTML5
-- CSS3
-- JavaScript
+- **HTML5**
+- **CSS3**
+- **JavaScript**
 
 ## Screenshots of the application
 <br> 
