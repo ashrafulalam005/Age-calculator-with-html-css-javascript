@@ -7,7 +7,7 @@
 # Overview
 <br>
 
-Hey there. I am **Ashraful Alam.** I am from **Chittagong, Bangladesh.** I am a passionate software developer. This is a simple **Age Calculator** application implemented using **HTML, CSS, and JavaScript.** It allows users to input their birthday (DD-MM-YYYY) and calculates their exact age in years, months, and days. See this project and tell me if I can improve something or if it is good. <br> <br> <br> 
+***Hey there. I am Ashraful Alam. I am from Chittagong, Bangladesh. I am a passionate software developer. This is a simple Age Calculator application implemented using HTML, CSS, and JavaScript. It allows users to input their birthday (DD-MM-YYYY) and calculates their exact age in years, months, and days. See this project and tell me if I can improve something or if it is good.*** <br> <br> <br> 
 
 # Credits
 <br> 
