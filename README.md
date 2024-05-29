@@ -22,11 +22,12 @@
 # Features
 <br>
 
-- Accurate age calculation in years, months, and days.
-- Responsive design for desktop and mobile devices.
-- Simple and intuitive user interface.
-- Instant calculation upon entering the date.
-- A lot of color animation.
+***- Accurate age calculation in years, months, and days.***  
+***- Responsive design for desktop and mobile devices.***  
+***- Simple and intuitive user interface.***  
+***- Instant calculation upon entering the date.***  
+***- A lot of color animation.***  
+
 <br>
 
 # Upcoming Feature
