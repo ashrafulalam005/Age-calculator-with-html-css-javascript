@@ -33,8 +33,8 @@
 # Upcoming Feature
 <br> 
 
-- I am working on it so that I can make it more beautiful. 
-- Adding additional features.
+***- I am working on it so that I can make it more beautiful.***  
+***- Adding additional features.***  
 <br>
 
 # How to Use
