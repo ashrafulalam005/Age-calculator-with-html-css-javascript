@@ -1,8 +1,5 @@
-<br> <br>                  
+<br> <br>
 
-
-
- 
 # Age Calculator with html, css and javascript
 
 <br>  
