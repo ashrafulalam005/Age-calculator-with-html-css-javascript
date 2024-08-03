@@ -1,3 +1,4 @@
+
 function getage() {
   let d1 = document.getElementById("date").value;
   let m1 = document.getElementById("month").value;
@@ -24,3 +25,4 @@ function getage() {
   document.getElementById("age").innerHTML =
     "Your Age is " + y + " Years " + m + " Months " + d + " Days";
 }
+
