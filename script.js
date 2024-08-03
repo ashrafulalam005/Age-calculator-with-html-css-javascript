@@ -1,3 +1,4 @@
+
 function getage() {
   let d1 = document.getElementById("date").value;
   let m1 = document.getElementById("month").value;
