@@ -57,6 +57,18 @@
 ***- JavaScript***  
 <br>
 
+# Installation and Setup
+<br>
+
+1. **Clone the repository to your local machine:**
+   ```bash
+   git clone https://ashrafulalam005.github.io/Age-calculator-with-html-css-javascript/
+<br> 
+
+2. **Visit the link to play online:**
+   https://ashrafulalam005.github.io/Age-calculator-with-html-css-javascript/
+
+
 # Screenshots of the application
 <br> 
 
