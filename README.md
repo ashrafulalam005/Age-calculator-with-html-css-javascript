@@ -67,7 +67,7 @@
 
 2. **Visit the link to play online:**
    https://ashrafulalam005.github.io/Age-calculator-with-html-css-javascript/
-
+<br> 
 
 # Screenshots of the application
 <br> 
