@@ -58,9 +58,10 @@
 <br>
 
 # Installation and Setup
-<br>
 
-1. **Clone the repository to your local machine:**
+<br> 
+
+1. **Clone the repository to your local machine :**
    ```bash
    git clone https://github.com/ashrafulalam005/Age-calculator-with-html-css-javascript.git
 <br>
@@ -69,7 +70,7 @@
 
 <br>
 
-2. **Visit the link to play online:**
+2. **Visit the link to play online :**
    https://ashrafulalam005.github.io/Age-calculator-with-html-css-javascript/
 <br> 
 
