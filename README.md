@@ -1,16 +1,15 @@
 <br> <br> <br>  
 
-
 # Age Calculator with html, css and javascript
 
 <br>  
 
-# Overview
+# Overview 🔍
 <br>
 
 ***Hey there. I am Ashraful Alam. I am from Chittagong, Bangladesh. I am a passionate software developer. This is a simple Age Calculator application implemented using HTML, CSS, and JavaScript. It allows users to input their birthday (DD-MM-YYYY) and calculates their exact age in years, months, and days. See this project and tell me if I can improve something or if it is good.*** <br> <br> <br> 
 
-# Credits
+# Credits 🙌
 <br> 
 
 # Ashraful Alam
@@ -20,7 +19,7 @@
 
 <br>
 
-# Features
+# Features ✨
 <br>
 
 ***- Accurate age calculation in years, months, and days.***  
@@ -31,14 +30,14 @@
 
 <br>
 
-# Upcoming Feature
+# Upcoming Features 🚀
 <br> 
 
 ***- I am working on it so that I can make it more beautiful.***  
 ***- Adding additional features.***  
 <br>
 
-# How to Use
+# How to Use 🎮
 <br> 
 
 ***1. Open the `index.html` file in your web browser.***  
@@ -49,7 +48,7 @@
 
 <br>
 
-# Technologies Used
+# Technologies Used 💻
 <br> 
 
 ***- HTML5***  
@@ -57,7 +56,7 @@
 ***- JavaScript***  
 <br>
 
-# Installation and Setup
+# Installation and Setup 🛠️
 
 <br> 
 
