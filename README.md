@@ -1,7 +1,6 @@
 <br> <br> <br>  
 
-# Age Calculator with html, css and javascript
-
+# Age Calculator with HTML, CSS, and JavaScript
 <br>  
 
 # Overview 🔍
