@@ -40,7 +40,7 @@
 <br> 
 
 ***1. Open the `index.html` file in your web browser.***  
-***2. Enter your birthdate in the input field.***  
+***2. Enter your birthdate in the input field or select from the dropdown box.***  
 ***3. Then press the "Get Age" button.***  
 ***4. The application will instantly display your age in years, months, and days.***  
 ***5. Enter a different birthdate and again press the "Get Age" button. It will show you the updated age instantly.***  
@@ -53,6 +53,7 @@
 ***- HTML5***  
 ***- CSS3***  
 ***- JavaScript***  
+***- Kotlin***  
 <br>
 
 # Installation and Setup 🛠️
@@ -64,7 +65,7 @@
 
 <br> 
 
-## Or
+# Or
 <br>
 
 # 2. Visit the link to play online :
