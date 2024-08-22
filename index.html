@@ -1,10 +1,10 @@
-
 <!DOCTYPE html>
-<html>
+<html lang="en">
   <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Age Calculator</title>
     <link rel="stylesheet" href="style.css" />
-    <script src="script.js"></script>
   </head>
   <body>
     <div class="container">
@@ -14,40 +14,49 @@
             <h4>Age Calculator</h4>
           </div>
           <div class="block">
-            <p class="title">Date</p>
-            <input
-              type="text"
-              name="date"
-              id="date"
-              placeholder="DD"
-              required="required"
-              minlength="1"
-              maxlength="2"
-            />
+            <p class="title">Year</p>
+            <div class="input-wrapper">
+              <input
+                type="text"
+                id="yearInput"
+                placeholder="YYYY"
+                maxlength="4"
+                oninput="updateYearFromInput()"
+              />
+              <select
+                id="yearSelect"
+                onchange="updateYearFromSelect()"
+              ></select>
+            </div>
           </div>
           <div class="block">
             <p class="title">Month</p>
-            <input
-              type="text"
-              name="month"
-              id="month"
-              placeholder="MM"
-              required="required"
-              minlength="1"
-              maxlength="2"
-            />
+            <div class="input-wrapper">
+              <input
+                type="text"
+                id="monthInput"
+                placeholder="MM"
+                maxlength="2"
+                oninput="updateMonthFromInput()"
+              />
+              <select
+                id="monthSelect"
+                onchange="updateMonthFromSelect()"
+              ></select>
+            </div>
           </div>
           <div class="block">
-            <p class="title">Year</p>
-            <input
-              type="text"
-              name="year"
-              id="year"
-              placeholder="YYYY"
-              required="required"
-              minlength="4"
-              maxlength="4"
-            />
+            <p class="title">Date</p>
+            <div class="input-wrapper">
+              <input
+                type="text"
+                id="dateInput"
+                placeholder="DD"
+                maxlength="2"
+                oninput="updateDateFromInput()"
+              />
+              <select id="dateSelect"></select>
+            </div>
           </div>
         </div>
         <div class="base">
@@ -56,16 +65,13 @@
               type="button"
               name="submit"
               value="Get Age"
-              onclick="getage()"
+              onclick="getAge()"
             />
           </div>
         </div>
         <div id="age"></div>
       </form>
     </div>
-    <body>
-      <html></html>
-    </body>
+    <script src="script.js"></script>
   </body>
 </html>
-
