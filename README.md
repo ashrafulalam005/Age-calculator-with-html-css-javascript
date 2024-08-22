@@ -60,7 +60,7 @@
 
 # 1. Download the APK file to play offline:
 
-## [Download APK](https://github.com/ashrafulalam005/Age-calculator-with-html-css-javascript/blob/main/app-release.apk)
+## [Download APK](https://github.com/ashrafulalam005/Age-calculator-with-html-css-javascript/blob/main/Age%20Calculator.apk)
 
 <br> 
 
