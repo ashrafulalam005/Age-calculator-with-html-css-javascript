@@ -78,13 +78,51 @@
 
 <br> 
 
-<img src="https://github.com/ashrafulalam005/Age-calculator-with-html-css-javascript/blob/main/Necessary%20img/before%20age%20input.png" alt="Screenshot 1" height="500" width="450">
+<img src="https://github.com/ashrafulalam005/Age-calculator-with-html-css-javascript/blob/main/necessary%20img/before-input.jpg" alt="Screenshot 1" height="500" width="270">
 
 <br> <br> 
-## After Entering Birthdate
+## Input from the keyboard
 
-<br>
+<br> 
 
-<img src="https://github.com/ashrafulalam005/Age-calculator-with-html-css-javascript/blob/main/Necessary%20img/after%20age%20input.png" alt="Screenshot 2" height="500" width="450">
+<img src="https://github.com/ashrafulalam005/Age-calculator-with-html-css-javascript/blob/main/necessary%20img/input-from-keyboard.jpg" alt="Screenshot 1" height="550" width="270">
 
 <br> <br> 
+## Year input from dropdown box
+
+<br> 
+
+<img src="https://github.com/ashrafulalam005/Age-calculator-with-html-css-javascript/blob/main/necessary%20img/year-input-from-dropdown.jpg" alt="Screenshot 1" height="550" width="270">
+
+<br> <br> 
+## Month input from dropdown box
+
+<br> 
+
+<img src="https://github.com/ashrafulalam005/Age-calculator-with-html-css-javascript/blob/main/necessary%20img/month-input-from-dropdown.jpg" alt="Screenshot 1" height="550" width="270">
+
+<br> <br> 
+## Day input from dropdown box
+
+<br> 
+
+<img src="https://github.com/ashrafulalam005/Age-calculator-with-html-css-javascript/blob/main/necessary%20img/date-input-from-dropdown.jpg" alt="Screenshot 1" height="550" width="270">
+
+<br> <br> 
+## Showing Final Output
+
+<br> 
+
+<img src="https://github.com/ashrafulalam005/Age-calculator-with-html-css-javascript/blob/main/necessary%20img/final-result.jpg" alt="Screenshot 1" height="550" width="270">
+
+<br> <br> 
+## Invalid date
+
+<br> 
+
+<img src="https://github.com/ashrafulalam005/Age-calculator-with-html-css-javascript/blob/main/necessary%20img/invalid-date.jpg" alt="Screenshot 1" height="550" width="270">
+
+<br> <br> 
+
+
+
