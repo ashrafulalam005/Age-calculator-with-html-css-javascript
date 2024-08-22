@@ -1,4 +1,3 @@
-
 * {
   box-sizing: border-box;
 }
@@ -7,15 +6,20 @@ body {
   background: #1f1d2b;
   padding: 0;
   margin: 0;
-  display: grid;
-  place-items: center;
-  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
 }
 .container {
-  width: 520px;
-  height: auto;
+  width: 90%;
+  max-width: 400px;
+  min-width: 300px;
   background-color: #ffd791;
   border-radius: 5px;
+  position: relative;
+  top: 50px; /* Adds space at the top */
+  margin: 20px 0; /* To prevent it from touching the edges on small screens */
 }
 .base {
   width: 100%;
@@ -26,16 +30,15 @@ body {
   float: none;
 }
 .block {
-  width: 135px;
+  width: 100%; /* Make sure blocks take up the full width */
   padding: 5px 20px;
-  margin-left: 20px;
-  display: inline-block;
+  margin-bottom: 10px; /* Add space between each input */
 }
 .base h4 {
   text-align: center;
   font-family: sans-serif;
   font-weight: normal;
-  margin-top: 0px;
+  margin: 0;
   box-shadow: 0px 2px #1f1d2b;
   background: #ffd791;
   font-size: 25px;
@@ -53,27 +56,40 @@ body {
   word-spacing: 2.7px;
   color: #1f1d2b;
 }
-input[type="text"] {
-  width: 140px;
-  margin: auto;
-  outline: none;
-  min-height: 50px;
-  border: 2px solid #1f1d2b;
+.input-wrapper {
+  position: relative;
+  display: flex;
+}
+.input-wrapper input[type="text"] {
+  width: 100%; /* Full width of the container */
   padding: 10px;
-  background-color: #f7f7f7;
+  border: 2px solid #1f1d2b;
   border-radius: 5px;
+  background-color: #f7f7f7;
   color: #1f1d2b;
   font-size: 17px;
+  box-shadow: inset 0 0 0 10px #f7f7f7; /* Make space for the dropdown */
 }
-input[type="text"]:focus {
+.input-wrapper select {
+  position: absolute;
+  right: 0;
+  top: 0;
+  height: 100%;
+  border: none;
+  background: #f7f7f7;
+  font-size: 17px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+.input-wrapper input[type="text"]:focus {
   background-color: #fff;
   border: 2px solid #1f1d2b;
   outline: none;
 }
 input[type="button"] {
-  width: 150px;
-  margin-left: 35%;
-  margin-top: 40px;
+  width: 80%;
+  margin: 40px auto 20px auto; /* Center and adjust top space */
+  display: block;
   outline: none;
   border: none;
   background-color: #1f1d2b;
@@ -86,9 +102,8 @@ input[type="button"] {
   font-size: 16px;
 }
 input[type="button"]:hover {
-  background-color: #1f1d2b;
+  background-color: #333;
 }
-
 #age {
   display: block;
   padding: 20px;
