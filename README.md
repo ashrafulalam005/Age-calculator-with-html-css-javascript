@@ -56,21 +56,21 @@
 <br>
 
 # Installation and Setup 🛠️
+<br> 
+
+# 1. Download the APK file to play offline:
+
+## [Download APK](https://github.com/ashrafulalam005/Age-calculator-with-html-css-javascript/blob/main/app-release.apk)
 
 <br> 
 
-1. **Clone the repository to your local machine :**
-   ```bash
-   git clone https://github.com/ashrafulalam005/Age-calculator-with-html-css-javascript.git
+## Or
 <br>
 
-# Or
+# 2. Visit the link to play online :
 
-<br>
-
-2. **Visit the link to play online :**
-   https://ashrafulalam005.github.io/Age-calculator-with-html-css-javascript/
-<br> 
+## https://ashrafulalam005.github.io/Age-calculator-with-html-css-javascript/
+<br> <br> 
 
 # Screenshots of the application 🖼️
 <br> 
