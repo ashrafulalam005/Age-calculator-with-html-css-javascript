@@ -7,7 +7,8 @@
 # Overview 🔍
 <br>
 
-***Hey there. I am Ashraful Alam. I am from Chittagong, Bangladesh. I am a passionate software developer. This is a simple Age Calculator application implemented using HTML, CSS, and JavaScript. It allows users to input their birthday (DD-MM-YYYY) and calculates their exact age in years, months, and days. See this project and tell me if I can improve something or if it is good.*** <br> <br> <br> 
+***Hey there. I am Ashraful Alam. I am from Chittagong, Bangladesh. I am a passionate software developer. This is a simple Age Calculator application implemented using HTML, CSS, and JavaScript. It allows users to input their birthday (DD-MM-YYYY) and calculates their exact age in years, months, and days. I also made an apk file for you so that you can enjoy this app. I used kotlin for that. See this project and tell me if I can improve something or if it is good.*** <br> <br> <br> 
+
 
 # Credit 🙌
 
@@ -24,7 +25,9 @@
 ***- Accurate age calculation in years, months, and days.***  
 ***- Responsive design for desktop and mobile devices.***  
 ***- Simple and intuitive user interface.***  
+***- Both text box and dropdown box input available.***  
 ***- Instant calculation upon entering the date.***  
+***- It detects if input data is valid or invalid.***  
 ***- A lot of color animation.***  
 
 <br>
@@ -39,6 +42,8 @@
 # How to Use 🎮
 <br> 
 
+## If you have cloned my repository and playing from live server :
+
 ***1. Open the `index.html` file in your web browser.***  
 ***2. Enter your birthdate in the input field or select from the dropdown box.***  
 ***3. Then press the "Get Age" button.***  
@@ -46,6 +51,10 @@
 ***5. Enter a different birthdate and again press the "Get Age" button. It will show you the updated age instantly.***  
 
 <br>
+
+## You can also play the game by downloading the apk to play offline or by clicking the link to play online. Its below 👇 at the installation and setup part.
+
+<br> 
 
 # Programming Languages Used 💻
 <br> 
